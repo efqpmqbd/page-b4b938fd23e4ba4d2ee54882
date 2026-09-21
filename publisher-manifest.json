@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c6478ba34f53bfd2b314e081",
+  "owner": "efqpmqbd",
+  "repo": "page-b4b938fd23e4ba4d2ee54882",
+  "title": "黑洞云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b4b938fd23e4ba4d2ee54882",
+      "a": "黑洞云",
+      "b": "机场官网线路发布页",
+      "entity": "黑洞云",
+      "brand": "黑洞云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1db09fdf47b9a9794829b78d511cbbd1b111dd34c4c4a24fd8d63d2f94241805",
+      "content": {
+        "primary_entity": "黑洞云",
+        "keyword1": "黑洞云",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "黑洞云支持主流客户端订阅导入，按设备系统选择对应工具即可完成配置。",
+          "AI_CLIENTS_TITLE": "适配客户端",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，按文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "让黑洞云连接更顺畅",
+          "AI_DESCRIPTION": "，黑洞云提供基础版、旗舰版与团队版三档套餐，覆盖每月 100GB 到 1000GB 流量，支持 3 至 20 台设备同时在线。旗舰版采用 IPLC 专线并针对游戏加速优化，团队版提供 VIP 高带宽节点与企业定制路由。配合 Clash、Shadowrocket、V2Ray 等客户端导入订阅，即可按设备需求灵活选择。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备，适合手机或电脑单人多设备日常使用；若需求更高可考虑旗舰版。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持 5 台设备同时在线，采用 IPLC 专线并针对游戏加速优化，还提供全节点原生流媒体解锁与 7x24 优先工单支持。",
+          "AI_FAQ_ANSWER_3": "年付更划算，基础版按年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相当于按月支付可节省两个月费用。",
+          "AI_FAQ_ANSWER_4": "黑洞云支持 Clash、Shadowrocket、V2Ray 等主流客户端，按设备系统选择对应工具并导入订阅即可，具体兼容性以客户端文档为准。",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量、支持 20 台设备同时在线，提供 VIP 专属高带宽节点、企业定制路由与专属客户经理服务，适合小团队协作。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合哪些用户？",
+          "AI_FAQ_QUESTION_2": "旗舰版有哪些专属权益？",
+          "AI_FAQ_QUESTION_3": "月付和年付价格差多少？",
+          "AI_FAQ_QUESTION_4": "如何在常用客户端导入订阅？",
+          "AI_FAQ_QUESTION_5": "团队版能支持多少人同时使用？",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FEATURES_INTRO": "三档套餐按流量、设备数与线路类型区分，按需选择即可。",
+          "AI_FEATURES_TITLE": "套餐与功能",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，旗舰版每月 300GB、5 台设备，团队版每月 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版采用 IPLC 专线并针对游戏加速优化，团队版提供 VIP 高带宽节点与企业定制路由。",
+          "AI_FEATURE_TEXT_3": "支持月付与年付，年付相当于十个月价格，长期使用可优先考虑按年订阅。",
+          "AI_FEATURE_TITLE_1": "流量与设备",
+          "AI_FEATURE_TITLE_2": "线路与加速",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "从选套餐到客户端导入订阅，三步即可完成配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "黑洞云提供基础版、旗舰版与团队版三档海外加速套餐，覆盖每月 100GB 至 1000GB 流量与 3 至 20 台设备，配合主流客户端订阅导入即可按需使用。",
+          "AI_HERO_SUBTITLE": "黑洞云海外加速轻松连",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "年付更省，长期更划算",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按流量与设备数选择即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据流量需求、同时在线设备数与线路类型，从基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端要求，查看对应适配说明，确保本机可正常运行。",
+          "AI_STEP_TEXT_3": "参照所选客户端文档导入订阅信息，保存后启动连接即可使用黑洞云。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "检查适配",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "黑洞云·按需选套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hrxhx.cn",
+    "host": "hrxhx.cn"
+  },
+  "file_hashes": {
+    "index.html": "7cd90777768eda4639b574d80427ececc93b91bfe5803bca58fecca5d7683ab2",
+    "sitemap.xml": "5db4e1e4fe8fb752bd1f5f0939520b910155f47ee98e47596f82ebb7cf32ccdf",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2b848a94da8dc7345f776e475ae990729486ca3b078180faf01bea762f905a1c",
+    "robots.txt": "a5596d71b175ed18f404bf9546ccd5e19d10a31752a8dc2dc3fff5f6bf9a28bf",
+    "01396ab27f84df4a35aa5a93519b98f6.txt": "7a1eadf111bc375725fd33babd5575a5c824242ac57dfb78147afa7c9858789c"
+  },
+  "revision": "57a19fe197e21b2b41bd2b3aa96e593a75c4b06ebdfa6d2ad0206a33a20af35c"
+}
